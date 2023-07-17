@@ -1,4 +1,4 @@
-# SendPhishingEmail  [中文](https://github.com/UnknownU0/SendPhishingEmail/blob/main/README.md)
+# SendPhishingEmail  [中文](https://github.com/UnknownU0/SendPhishingEmail/)
 No need to build a server, send phishing emails directly.
 
 ## Usage
