@@ -1,4 +1,4 @@
-import telnetlib
+import telnetlib, time
 
 
 def SendPhishingEmail(MXServer, MailFrom, MailTo, Subject, Text):
