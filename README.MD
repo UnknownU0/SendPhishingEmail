@@ -21,6 +21,7 @@
     SendmailWithTelnet("mx.google.com", "UnknwonSecurity@UnknownSecurity.UnknownSecurity", "admin@unkn0wn.cn", "Miss You!","Now, I Miss You So Much!!!")
 
 
+记得安装依赖。`pip install -r requirements.txt`
 
 ## 其他
 [English Readme.md](https://github.com/UnknownU0/SendPhishingEmail/blob/main/Readme-en.md)
